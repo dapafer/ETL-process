@@ -22,3 +22,5 @@ password.py
 *.parquet
 
 productos.csv
+subcategorias.csv
+categorias.csv
