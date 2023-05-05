@@ -37,140 +37,141 @@ fruta_verdura_id,nombre
 36,Piña natural a rodajas
 37,Papaya
 38,Media papaya
-39,Fresón
-40,Frambuesas
-41,Níspero
-42,Moras
-43,Arándanos
+39,Chirimoya
+40,Fresón
+41,Frambuesas
+42,Níspero
+43,Moras
 44,Arándanos
-45,Lechuga iceberg
-46,Ensalada mezcla 4 estaciones
-47,Lechugas corazón romana
-48,Ensalada mezcla brotes tiernos
-49,Canónigos base para ensalada
-50,Lechuga iceberg base para ensalada
-51,Ensalada mezcla gourmet
-52,Cogollos de lechuga
-53,Lechuga corazón romana
-54,Endibias
-55,Ensalada mezcla brotes tiernos maxi
-56,Ensalada mezcla gourmet maxi
-57,Ensalada mezcla tierna
-58,Rúcula base para ensalada
-59,Cogollos corazón de lechuga
-60,Ensalada mezcla primavera
-61,Ensalada mezcla dúo canónigos y rúcula
-62,Ensalada mezcla fresca
-63,Lechuga hoja roble
-64,Escarola rizada base para ensalada
-65,Escarola rizada
-66,Espinaca baby base para ensalada
-67,Lechuga romana cortada
-68,Ensalada César
-69,Ensalada California
-70,Wraps Texas
-71,Ensalada de la casa
-72,Ensalada mil islas
-73,Ensalada ensatún
-74,Ensalada jamón
-75,Ensalada de pasta
-76,Ensalada queso de cabra
-77,Ensalada de pasta Listo para Comer
-78,Patata
-79,Patatas
-80,Patatas rojas
-81,Patatas
-82,Patatas guarnición
-83,Batata
-84,Patatas especial para freir
-85,Cebollas tiernas
-86,Cebollas
+45,Arándanos
+46,Lechuga iceberg
+47,Ensalada mezcla 4 estaciones
+48,Lechugas corazón romana
+49,Ensalada mezcla brotes tiernos
+50,Canónigos base para ensalada
+51,Lechuga iceberg base para ensalada
+52,Ensalada mezcla gourmet
+53,Cogollos de lechuga
+54,Lechuga corazón romana
+55,Endibias
+56,Ensalada mezcla brotes tiernos maxi
+57,Ensalada mezcla gourmet maxi
+58,Ensalada mezcla tierna
+59,Rúcula base para ensalada
+60,Cogollos corazón de lechuga
+61,Ensalada mezcla primavera
+62,Ensalada mezcla dúo canónigos y rúcula
+63,Ensalada mezcla fresca
+64,Lechuga hoja roble
+65,Escarola rizada base para ensalada
+66,Escarola rizada
+67,Espinaca baby base para ensalada
+68,Lechuga romana cortada
+69,Ensalada César
+70,Ensalada California
+71,Wraps Texas
+72,Ensalada de la casa
+73,Ensalada mil islas
+74,Ensalada ensatún
+75,Ensalada jamón
+76,Ensalada de pasta
+77,Ensalada queso de cabra
+78,Ensalada de pasta Listo para Comer
+79,Patata
+80,Patatas
+81,Patatas rojas
+82,Patatas
+83,Patatas guarnición
+84,Batata
+85,Patatas especial para freir
+86,Cebollas tiernas
 87,Cebollas
-88,Ajos morados
-89,Cebollas dulces
-90,Ajo tierno
-91,Ajos morados
-92,Cebollas rojas
-93,Yuca
-94,Ajo negro dientes pelados
-95,Picada de ajo y Perejil
-96,Tomate ensalada
-97,Tomate canario
-98,Tomate pera
-99,Tomates pera
-100,Tomates cherry pera kumato
-101,Tomates cherry
-102,Tomates cherry en rama Dulcita
-103,Tomates kumato
-104,Tomates
-105,Tomate kumato negro
-106,Tomate rallado
-107,Rama de Tomates
-108,Tomate rosa
-109,Tomate ensalada
-110,Zanahorias
-111,Pepino
-112,Pepino holandés
-113,Zanahorias
-114,Pepinos
-115,Palitos de zanahoria
-116,Zanahoria rallada base para ensalada
-117,Pimiento rojo
-118,Calabacín verde
-119,Pimiento verde freír
-120,Calabacín blanco
-121,Pimiento verde
-122,"Pimientos tricolor rojo, amarillo y verde"
-123,Pimientos semipicantes
-124,Pimientos rojos picantes
-125,Coliflor
-126,Repollo liso
-127,Medio repollo liso
-128,Repollo rizado
-129,Medio repollo rizado
-130,Col lombarda
-131,Media col lombarda
-132,Champiñón pequeño
-133,Champiñón laminado limpio
-134,Seta
-135,Champiñón grande
-136,Seta laminada
-137,Champiñón Portobello
-138,Setas al plato con perejil
-139,Salteado de setas laminadas
-140,Seta shiitake
-141,Perejil troceado
-142,Jengibre
-143,Cilantro
-144,Albahaca
-145,Hierbabuena
-146,Cebollino
-147,Espinacas cortadas
-148,Brócoli
-149,Berenjena
-150,Judía verde plana
+88,Cebollas
+89,Ajos morados
+90,Cebollas dulces
+91,Ajo tierno
+92,Ajos morados
+93,Cebollas rojas
+94,Yuca
+95,Ajo negro dientes pelados
+96,Picada de ajo y Perejil
+97,Tomate ensalada
+98,Tomate canario
+99,Tomate pera
+100,Tomates pera
+101,Tomates cherry pera kumato
+102,Tomates cherry
+103,Tomates cherry en rama Dulcita
+104,Tomates kumato
+105,Tomates
+106,Tomate kumato negro
+107,Tomate rallado
+108,Rama de Tomates
+109,Tomate rosa
+110,Tomate ensalada
+111,Zanahorias
+112,Pepino
+113,Pepino holandés
+114,Zanahorias
+115,Pepinos
+116,Palitos de zanahoria
+117,Zanahoria rallada base para ensalada
+118,Pimiento rojo
+119,Calabacín verde
+120,Pimiento verde freír
+121,Calabacín blanco
+122,Pimiento verde
+123,"Pimientos tricolor rojo, amarillo y verde"
+124,Pimientos semipicantes
+125,Pimientos rojos picantes
+126,Coliflor
+127,Repollo liso
+128,Medio repollo liso
+129,Repollo rizado
+130,Medio repollo rizado
+131,Col lombarda
+132,Media col lombarda
+133,Champiñón pequeño
+134,Champiñón laminado limpio
+135,Seta
+136,Champiñón grande
+137,Seta laminada
+138,Champiñón Portobello
+139,Setas al plato con perejil
+140,Salteado de setas laminadas
+141,Seta shiitake
+142,Perejil troceado
+143,Jengibre
+144,Cilantro
+145,Albahaca
+146,Hierbabuena
+147,Cebollino
+148,Espinacas cortadas
+149,Brócoli
+150,Berenjena
 151,Judía verde plana
-152,Acelgas cortadas
-153,Puerros
-154,Alcachofa
-155,Judía verde redonda
-156,Calabaza cacahuete cortada a trozos
-157,Apio verde
-158,Preparado de verdura para cocido
-159,Espárrago verde fino
-160,Rabanitos
-161,Remolacha cocida y pelada
-162,Acelgas
-163,Maíz dulce en mazorca cocido
-164,Calabaza cacahuete
-165,Media calabaza cacahuete
-166,Bimi
-167,Espárrago verde grueso
-168,Maíz dulce en mazorca
-169,3 Vegetales para micro
-170,Floretas de brócoli para micro
-171,Mix de verduras paisana para micro
-172,Sopa juliana para micro
-173,Patata para micro
-174,Batata para micro
-175,Mix de verduras jardinera para micro
+152,Judía verde plana
+153,Acelgas cortadas
+154,Puerros
+155,Alcachofa
+156,Judía verde redonda
+157,Calabaza cacahuete cortada a trozos
+158,Apio verde
+159,Preparado de verdura para cocido
+160,Espárrago verde fino
+161,Rabanitos
+162,Remolacha cocida y pelada
+163,Acelgas
+164,Maíz dulce en mazorca cocido
+165,Calabaza cacahuete
+166,Media calabaza cacahuete
+167,Bimi
+168,Espárrago verde grueso
+169,Maíz dulce en mazorca
+170,3 Vegetales para micro
+171,Floretas de brócoli para micro
+172,Mix de verduras paisana para micro
+173,Sopa juliana para micro
+174,Patata para micro
+175,Batata para micro
+176,Mix de verduras jardinera para micro

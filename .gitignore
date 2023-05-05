@@ -21,3 +21,4 @@ password.py
 *.h5
 *.parquet
 
+productos.csv
