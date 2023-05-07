@@ -1,0 +1,178 @@
+producto_id,producto,formato,ancho,alto,subcategoria_id,categoria_id
+1,Plátano de Canarias,Pieza 150 g aprox.,desconocido,desconocido,1,1
+2,Banana,Pieza 170 g aprox.,desconocido,desconocido,1,1
+3,Plátano macho,Pieza 340 g aprox.,desconocido,desconocido,1,1
+4,Uva blanca sin semillas,Bandeja 500 g aprox.,desconocido,desconocido,1,1
+5,Uva roja sin semillas,Bandeja 500 g aprox.,desconocido,desconocido,1,1
+6,Manzana Golden,Pieza 190 g aprox.,7.5,7.4,2,1
+7,Manzanas Golden,"Bolsa 1,5 kg aprox.",desconocido,desconocido,2,1
+8,Pera Conferencia,Pieza 160 g aprox.,desconocido,desconocido,2,1
+9,Peras Conferencia,"1,5 kg aprox.",desconocido,desconocido,2,1
+10,Pera Ercolina,Pieza 90 g aprox.,desconocido,desconocido,2,1
+11,Manzana Granny Smith,Pieza 210 g aprox.,7.9,7.1,2,1
+12,Manzana Evelina,Pieza 260 g aprox.,desconocido,desconocido,2,1
+13,Manzana Evelina,"Bolsa 1,5 kg aprox.",desconocido,desconocido,2,1
+14,Manzana Envy,Pieza 280 g aprox.,desconocido,desconocido,2,1
+15,Manzanas Envy,"Bolsa 1,5 kg aprox.",desconocido,desconocido,2,1
+16,1/4 Sandía baja en semillas,"1/4 Pieza 1,33 kg aprox.",desconocido,desconocido,3,1
+17,Media sandía baja en semillas,"1/2 Pieza 2,56 kg aprox.",desconocido,desconocido,3,1
+18,Sandía baja en semillas,"Pieza 5,13 kg aprox.",desconocido,desconocido,3,1
+19,Limones,Malla 1 kg,desconocido,desconocido,4,1
+20,Limón,Pieza 210 g aprox.,7.3,10.0,4,1
+21,Mandarina,Pieza 170 g aprox.,5.9,4.4,4,1
+22,Mandarina,Malla 2 kg,5.9,4.4,4,1
+23,Naranja para mesa,Pieza 380 g aprox.,7.2,7.7,4,1
+24,Naranjas,Malla 3 kg,desconocido,desconocido,4,1
+25,Naranjas,Malla 5 kg,desconocido,desconocido,4,1
+26,Pomelo,Pieza 350 g aprox.,desconocido,desconocido,4,1
+27,Limas,400 g aprox.,desconocido,desconocido,4,1
+28,Kiwi verde,Pieza 110 g aprox.,desconocido,desconocido,5,1
+29,Kiwis verdes,1 kg aprox.,desconocido,desconocido,5,1
+30,Aguacate,Pieza 190 g aprox.,desconocido,desconocido,5,1
+31,Aguacates,550 g aprox.,desconocido,desconocido,5,1
+32,Piña,Pieza 2 kg aprox.,desconocido,desconocido,5,1
+33,Media piña,"1/2 Pieza 1,03 kg aprox.",desconocido,desconocido,5,1
+34,Guacamole Hacendado,Tarrina 500 g,desconocido,desconocido,5,1
+35,Guacamole Hacendado,Tarrina 200 g,desconocido,desconocido,5,1
+36,Mango,Pieza 500 g aprox.,desconocido,desconocido,5,1
+37,Piña natural a rodajas,Bote 500 g aprox.,desconocido,desconocido,5,1
+38,Papaya,"Pieza 1,27 kg aprox.",desconocido,desconocido,5,1
+39,Media papaya,1/2 Pieza 650 g aprox.,desconocido,desconocido,5,1
+40,Chirimoya,Pieza 370 g aprox.,desconocido,desconocido,5,1
+41,Fresón,Bandeja 500 g aprox.,desconocido,desconocido,6,1
+42,Frambuesas,Bandeja 170 g,desconocido,desconocido,6,1
+43,Níspero,Bandeja 500 g aprox.,desconocido,desconocido,6,1
+44,Moras,Bandeja 125 g,desconocido,desconocido,6,1
+45,Arándanos,Vaso 225 g,desconocido,desconocido,6,1
+46,Arándanos,Tarrina 500 g,desconocido,desconocido,6,1
+47,Lechuga iceberg,Pieza 1 ud.,desconocido,desconocido,7,2
+48,Ensalada mezcla 4 estaciones,Paquete 250 g,desconocido,desconocido,7,2
+49,Lechugas corazón romana,Paquete 2 ud.,desconocido,desconocido,7,2
+50,Ensalada mezcla brotes tiernos,Paquete 100 g,desconocido,desconocido,7,2
+51,Canónigos base para ensalada,Paquete 125 g,desconocido,desconocido,7,2
+52,Lechuga iceberg base para ensalada,Paquete 250 g,desconocido,desconocido,7,2
+53,Ensalada mezcla gourmet,Paquete 175 g,desconocido,desconocido,7,2
+54,Cogollos de lechuga,Paquete 3 ud.,desconocido,desconocido,7,2
+55,Lechuga corazón romana,Paquete 1 ud.,desconocido,desconocido,7,2
+56,Endibias,Bandeja 450 g,desconocido,desconocido,7,2
+57,Ensalada mezcla brotes tiernos maxi,Paquete 175 g,desconocido,desconocido,7,2
+58,Ensalada mezcla gourmet maxi,Paquete 300 g,desconocido,desconocido,7,2
+59,Ensalada mezcla tierna,Paquete 150 g,desconocido,desconocido,7,2
+60,Rúcula base para ensalada,Paquete 50 g,desconocido,desconocido,7,2
+61,Cogollos corazón de lechuga,Paquete 6 ud.,desconocido,desconocido,7,2
+62,Ensalada mezcla primavera,Paquete 200 g,desconocido,desconocido,7,2
+63,Ensalada mezcla dúo canónigos y rúcula,Paquete 100 g,desconocido,desconocido,7,2
+64,Ensalada mezcla fresca,Paquete 200 g,desconocido,desconocido,7,2
+65,Lechuga hoja roble,Paquete 1 ud.,desconocido,desconocido,7,2
+66,Escarola rizada base para ensalada,Paquete 150 g,desconocido,desconocido,7,2
+67,Escarola rizada,Paquete 1 ud.,desconocido,desconocido,7,2
+68,Espinaca baby base para ensalada,Paquete 100 g,desconocido,desconocido,7,2
+69,Lechuga romana cortada,Paquete 200 g,desconocido,desconocido,7,2
+70,Ensalada César,Bol 210 g,desconocido,desconocido,8,2
+71,Ensalada California,Bol 192 g,desconocido,desconocido,8,2
+72,Wraps Texas,Bol 300 g,desconocido,desconocido,8,2
+73,Ensalada de la casa,Bol 400 g,desconocido,desconocido,8,2
+74,Ensalada mil islas,Bol 330 g,desconocido,desconocido,8,2
+75,Ensalada ensatún,Bol 250 g,desconocido,desconocido,8,2
+76,Ensalada jamón,Bol 215 g,desconocido,desconocido,8,2
+77,Ensalada de pasta,Bol 250 g,desconocido,desconocido,8,2
+78,Ensalada queso de cabra,Bol 135 g,desconocido,desconocido,8,2
+79,Ensalada de pasta Listo para Comer,Bol 340 g,desconocido,desconocido,8,2
+80,Patata,Pieza 220 g aprox.,desconocido,desconocido,9,3
+81,Patatas,Malla 3 kg,desconocido,desconocido,9,3
+82,Patatas rojas,Malla 2 kg,desconocido,desconocido,9,3
+83,Patatas,Malla 5 kg,desconocido,desconocido,9,3
+84,Patatas guarnición,Malla 1 kg,desconocido,desconocido,9,3
+85,Batata,Pieza 330 g aprox.,desconocido,desconocido,9,3
+86,Patatas especial para freir,Malla 2 kg,desconocido,desconocido,9,3
+87,Cebollas tiernas,Manojo 3 ud.,desconocido,desconocido,10,3
+88,Cebollas,Malla 2 kg,desconocido,desconocido,10,3
+89,Cebollas,Malla 1 kg,desconocido,desconocido,10,3
+90,Ajos morados,Malla 250 g,desconocido,desconocido,10,3
+91,Cebollas dulces,Malla 1 kg,desconocido,desconocido,10,3
+92,Ajo tierno,Manojo 200 g,desconocido,desconocido,10,3
+93,Ajos morados,Malla 400 g,desconocido,desconocido,10,3
+94,Cebollas rojas,Malla 500 g,desconocido,desconocido,10,3
+95,Yuca,Pieza 670 g aprox.,desconocido,desconocido,10,3
+96,Ajo negro dientes pelados,Tarrina 85 g,desconocido,desconocido,10,3
+97,Picada de ajo y Perejil,Bandeja 100 g,desconocido,desconocido,10,3
+98,Tomate ensalada,Pieza 230 g aprox.,desconocido,desconocido,11,3
+99,Tomate canario,Pieza 100 g aprox.,desconocido,desconocido,11,3
+100,Tomate pera,Pieza 120 g aprox.,desconocido,desconocido,11,3
+101,Tomates pera,1 kg aprox.,desconocido,desconocido,11,3
+102,Tomates cherry pera kumato,Bandeja 300 g,desconocido,desconocido,11,3
+103,Tomates cherry,Bandeja 500 g,desconocido,desconocido,11,3
+104,Tomates cherry en rama Dulcita,Bandeja 200 g,desconocido,desconocido,11,3
+105,Tomates kumato,1 kg aprox.,desconocido,desconocido,11,3
+106,Tomates,Malla 2 kg,desconocido,desconocido,11,3
+107,Tomate kumato negro,Pieza 140 g aprox.,desconocido,desconocido,11,3
+108,Tomate rallado,Tarrina 290 g,desconocido,desconocido,11,3
+109,Rama de Tomates,720 g aprox.,desconocido,desconocido,11,3
+110,Tomate rosa,Pieza 530 g aprox.,desconocido,desconocido,11,3
+111,Tomate ensalada,1 kg aprox.,desconocido,desconocido,11,3
+112,Zanahorias,Paquete 1 kg,desconocido,desconocido,12,3
+113,Pepino,Pieza 220 g aprox.,desconocido,desconocido,12,3
+114,Pepino holandés,Pieza 425 g aprox.,desconocido,desconocido,12,3
+115,Zanahorias,Paquete 500 g,desconocido,desconocido,12,3
+116,Pepinos,"Malla 1,25 kg",desconocido,desconocido,12,3
+117,Palitos de zanahoria,Tarrina 180 g,desconocido,desconocido,12,3
+118,Zanahoria rallada base para ensalada,Paquete 150 g,desconocido,desconocido,12,3
+119,Pimiento rojo,Pieza 370 g aprox.,desconocido,desconocido,13,3
+120,Calabacín verde,Pieza 370 g aprox.,desconocido,desconocido,13,3
+121,Pimiento verde freír,Pieza 80 g aprox.,desconocido,desconocido,13,3
+122,Calabacín blanco,Pieza 350 g aprox.,desconocido,desconocido,13,3
+123,Pimiento verde,Pieza 290 g aprox.,desconocido,desconocido,13,3
+124,"Pimientos tricolor rojo, amarillo y verde",600 g,desconocido,desconocido,13,3
+125,Pimientos semipicantes,Paquete 250 g,desconocido,desconocido,13,3
+126,Pimientos rojos picantes,Bandeja 100 g,desconocido,desconocido,13,3
+127,Coliflor,"Pieza 1,28 kg aprox.",desconocido,desconocido,14,3
+128,Repollo liso,"Pieza 1,73 kg aprox.",desconocido,desconocido,14,3
+129,Medio repollo liso,1/2 Pieza 910 g aprox.,desconocido,desconocido,14,3
+130,Repollo rizado,"Pieza 1,39 kg aprox.",desconocido,desconocido,14,3
+131,Medio repollo rizado,1/2 Pieza 740 g aprox.,desconocido,desconocido,14,3
+132,Col lombarda,"Pieza 1,17 kg aprox.",desconocido,desconocido,14,3
+133,Media col lombarda,1/2 Pieza 620 g aprox.,desconocido,desconocido,14,3
+134,Champiñón pequeño,Bandeja 300 g aprox.,desconocido,desconocido,15,3
+135,Champiñón laminado limpio,Bandeja 320 g aprox.,desconocido,desconocido,15,3
+136,Seta,Bandeja 250 g aprox.,desconocido,desconocido,15,3
+137,Champiñón grande,Bandeja 430 g aprox.,desconocido,desconocido,15,3
+138,Seta laminada,Bandeja 250 g aprox.,desconocido,desconocido,15,3
+139,Champiñón Portobello,Bandeja 300 g aprox.,desconocido,desconocido,15,3
+140,Setas al plato con perejil,Bandeja 200 g,desconocido,desconocido,15,3
+141,Salteado de setas laminadas,Bandeja 250 g aprox.,desconocido,desconocido,15,3
+142,Seta shiitake,Bandeja 300 g aprox.,desconocido,desconocido,15,3
+143,Perejil troceado,Paquete 40 g,desconocido,desconocido,16,3
+144,Jengibre,200 g aprox.,desconocido,desconocido,16,3
+145,Cilantro,Bandeja 20 g,desconocido,desconocido,16,3
+146,Albahaca,Bandeja 20 g,desconocido,desconocido,16,3
+147,Hierbabuena,Paquete 70 g,desconocido,desconocido,16,3
+148,Cebollino,Bandeja 20 g,desconocido,desconocido,16,3
+149,Espinacas cortadas,Paquete 300 g,desconocido,desconocido,17,3
+150,Brócoli,Pieza 450 g aprox.,desconocido,desconocido,17,3
+151,Berenjena,Pieza 350 g aprox.,desconocido,desconocido,17,3
+152,Judía verde plana,Bandeja 750 g,desconocido,desconocido,17,3
+153,Judía verde plana,Bandeja 350 g,desconocido,desconocido,17,3
+154,Acelgas cortadas,Paquete 300 g,desconocido,desconocido,17,3
+155,Puerros,Paquete 900 g aprox.,desconocido,desconocido,17,3
+156,Alcachofa,Pieza 170 g aprox.,desconocido,desconocido,17,3
+157,Judía verde redonda,Bandeja 500 g,desconocido,desconocido,17,3
+158,Calabaza cacahuete cortada a trozos,Bandeja 450 g aprox.,desconocido,desconocido,17,3
+159,Apio verde,Paquete 660 g aprox.,desconocido,desconocido,17,3
+160,Preparado de verdura para cocido,Bandeja 900 g aprox.,desconocido,desconocido,17,3
+161,Espárrago verde fino,Paquete 250 g,desconocido,desconocido,17,3
+162,Rabanitos,Paquete 250 g,desconocido,desconocido,17,3
+163,Remolacha cocida y pelada,Paquete 450 g,desconocido,desconocido,17,3
+164,Acelgas,Paquete 800 g,desconocido,desconocido,17,3
+165,Maíz dulce en mazorca cocido,Paquete 2 ud. (450 g),desconocido,desconocido,17,3
+166,Calabaza cacahuete,"Pieza 1,56 kg aprox.",desconocido,desconocido,17,3
+167,Media calabaza cacahuete,1/2 Pieza 720 g aprox.,desconocido,desconocido,17,3
+168,Bimi,Bandeja 200 g,desconocido,desconocido,17,3
+169,Espárrago verde grueso,Paquete 300 g,desconocido,desconocido,17,3
+170,Maíz dulce en mazorca,Bandeja 2 ud.,desconocido,desconocido,17,3
+171,3 Vegetales para micro,Paquete 300 g,desconocido,desconocido,18,3
+172,Floretas de brócoli para micro,Paquete 230 g,desconocido,desconocido,18,3
+173,Mix de verduras paisana para micro,Paquete 300 g,desconocido,desconocido,18,3
+174,Sopa juliana para micro,Paquete 400 g,desconocido,desconocido,18,3
+175,Patata para micro,Paquete 400 g,desconocido,desconocido,18,3
+176,Batata para micro,Paquete 400 g,desconocido,desconocido,18,3
+177,Mix de verduras jardinera para micro,Paquete 400 g,desconocido,desconocido,18,3
