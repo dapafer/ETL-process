@@ -21,6 +21,9 @@ password.py
 *.h5
 *.parquet
 
-productos.csv
-subcategorias.csv
-categorias.csv
+
+
+frutas.csv
+ensaladas.csv
+verduras.csv
+
